@@ -19,4 +19,4 @@
 
 <img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQE2F3gvsjZeyA/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=Q8fG5zFaIsQmhppOR1lVAjUYHeO2VwOjU6HP-Cu2gBM"></img>
 
-#### Um agradecimento especial a [Rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
+<p align="center"> Um agradecimento especial a [Rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!</p>
