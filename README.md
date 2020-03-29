@@ -6,7 +6,7 @@
 ## 🔖 Aplicação:
 
 - [Web site](https://musing-chandrasekhar-77139a.netlify.com/)
-- [APK Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vespidhook/betohero-157d403429044ddc8088da558c625bdb-signed.apk)
+- [APK Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vespidhook/bethehero-80daf7d2b9e74f3b80992020099861cf-signed.apk)
 
 ## 🚀 Desenvolvido com:
 
