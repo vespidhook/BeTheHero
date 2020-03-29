@@ -13,9 +13,9 @@
 
 ## :computer: Screen
 
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHDNP9EShkvKQ/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=sMgLH1OL19Pa6QkN5vJe10DMgO_qfchoOa_nccS0rds"></img>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHz6Vt4oGpqow/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=-6W8s5NwiMC1mdmYUH5aS7wahdAWb52EsNa548xYyMI"></img>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHpEvxk_A4xcw/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=TBn0dWaHZOAeJN0R5_nLUEvYfhC_EHK03DLiJbbuQEg"></img>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHUAKUdzydabQ/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=DPsiSJ-N4fzaWDYpk_A5o0dIdAE_mUOZY-nLn4yfXb8"></img>
+<img align="center" width="250px" src="https://media-exp1.licdn.com/dms/image/C4D22AQHDNP9EShkvKQ/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=sMgLH1OL19Pa6QkN5vJe10DMgO_qfchoOa_nccS0rds"></img>
+<img align="center" width="250px" src="https://media-exp1.licdn.com/dms/image/C4D22AQHz6Vt4oGpqow/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=-6W8s5NwiMC1mdmYUH5aS7wahdAWb52EsNa548xYyMI"></img>
+<img align="center" width="250px" src="https://media-exp1.licdn.com/dms/image/C4D22AQHpEvxk_A4xcw/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=TBn0dWaHZOAeJN0R5_nLUEvYfhC_EHK03DLiJbbuQEg"></img>
+<img align="center" width="250px" src="https://media-exp1.licdn.com/dms/image/C4D22AQHUAKUdzydabQ/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=DPsiSJ-N4fzaWDYpk_A5o0dIdAE_mUOZY-nLn4yfXb8"></img>
 
 #### Um agradecimento especial a [Rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
