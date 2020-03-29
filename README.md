@@ -3,6 +3,9 @@
 
 <p align="center">Projeto desenvolvido na <strong>Semana OmniStack 11.0</strong> da <strong>Rocketseat</strong></p>
 
+- [Site](https://musing-chandrasekhar-77139a.netlify.com/)
+- [APK Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vespidhook/betohero-1dfc678eb22d48a5a5f5fd44e3c96403-signed.apk)
+
 ## 🚀 Desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/) 
