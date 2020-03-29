@@ -1,6 +1,5 @@
 <p align="center">
-  <img  width="400" src="https://raw.githubusercontent.com/vespidhook/BeTheHero/master/frontend/src/assets/heroes.png">
-</p>
+<img alt="BeTheHero" title="#BeTheHero" src=".github/logo.svg" width="250px" /></p>
 
 <h1 align="center">Be To Hero</h1>
 <p align="center">Projeto desenvolvido na <strong>Semana OmniStack 11.0</strong> da <strong>Rocketseat</strong></p>
