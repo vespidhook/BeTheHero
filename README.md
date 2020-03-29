@@ -2,7 +2,6 @@
 <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/vespidhook/BeTheHero/blob/master/mobile/src/assets/logo@3x.png?raw=true" width="250px" /></p>
 
 <p align="center">Projeto desenvolvido na <strong>Semana OmniStack 11.0</strong> da <strong>Rocketseat</strong></p>
-<p align="center">
 
 ## 🚀 Desenvolvido com:
 
