@@ -1,16 +1,10 @@
 <p align="center">
 <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/vespidhook/BeTheHero/blob/master/mobile/src/assets/logo@3x.png?raw=true" width="250px" /></p>
 
-<h1 align="center">Be To Hero</h1>
 <p align="center">Projeto desenvolvido na <strong>Semana OmniStack 11.0</strong> da <strong>Rocketseat</strong></p>
 <p align="center">
 
-## :rocket: Technologies, tools and dependencies
-
-### This project was developed with the following technologies:
-
-## 🚀 developed with
-#### these core technologies ⚛
+## 🚀 Desenvolvido com:
 
 - [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
