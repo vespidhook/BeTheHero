@@ -13,6 +13,9 @@
 
 ## :computer: Screen
 
-<img align="center" src="./img/screen.png"></img>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHz6Vt4oGpqow/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=-6W8s5NwiMC1mdmYUH5aS7wahdAWb52EsNa548xYyMI"></img>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHz6Vt4oGpqow/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=-6W8s5NwiMC1mdmYUH5aS7wahdAWb52EsNa548xYyMI"></img>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHz6Vt4oGpqow/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=-6W8s5NwiMC1mdmYUH5aS7wahdAWb52EsNa548xYyMI"></img>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHz6Vt4oGpqow/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=-6W8s5NwiMC1mdmYUH5aS7wahdAWb52EsNa548xYyMI"></img>
 
 #### Um agradecimento especial a [Rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
