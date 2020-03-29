@@ -29,3 +29,4 @@
 ## :memo: License
 
 #### This project is under license [MIT](./LICENSE) &copy; [SWAPI](https://swapi.co/)
+##### agradecimento especial a [rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
