@@ -11,22 +11,8 @@
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)|
 
-## :memo: Projeto
-
-#### ReacjJS application that consumes the Starwars API showing the data of the planets at random
-
 ## :computer: Screen
 
 <img align="center" src="./img/screen.png"></img>
 
-## :round_pushpin: Installing the Project
-
-
-1 - <strong>git clone https://github.com/vespidhook/api-reactjs.git</strong> | to download the repository <br/>
-2 - <strong>npm install </strong> | to install the dependencies<br/>
-3 - <strong>npm start</strong> | to start the project at port 3000<br/>
-
-## :memo: License
-
-#### This project is under license [MIT](./LICENSE) &copy; [SWAPI](https://swapi.co/)
-##### agradecimento especial a [rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
+#### Um agradecimento especial a [Rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
