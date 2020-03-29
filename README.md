@@ -11,9 +11,8 @@
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)|
 
-## :computer: Screen
+## :computer: Telas
 
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHDNP9EShkvKQ/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=sMgLH1OL19Pa6QkN5vJe10DMgO_qfchoOa_nccS0rds"></img>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQHpEvxk_A4xcw/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=TBn0dWaHZOAeJN0R5_nLUEvYfhC_EHK03DLiJbbuQEg"></img>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQE2F3gvsjZeyA/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=Q8fG5zFaIsQmhppOR1lVAjUYHeO2VwOjU6HP-Cu2gBM"></img>
 
 #### Um agradecimento especial a [Rocketseat](https://www.rocketseat.com.br) | feito com ❤ e ☕!
