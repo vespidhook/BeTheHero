@@ -6,7 +6,7 @@
 ## 🔖 Aplicação:
 
 - [Web site](https://bethehero-bruno.netlify.com/)
-- [APK Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vespidhook/bethehero-9c6a0ea2b4a04d5e80b7260b8815213e-signed.apk)
+- [APK Android](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vespidhook/bethehero-8389b4012ff542dba85d6bf365c78060-signed.apk)
 
 ## 🚀 Desenvolvido com:
 
